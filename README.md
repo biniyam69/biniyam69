@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @biniyam69
-- 👀 I’m interested in frontend web development, backend and machine learning
-- 🌱 I’m currently learning Computer Science And Engineering at Adama Science And Technology University.
-- 💞️ I’m looking to collaborate on any Machine Learning and Deep Learning projects
-- 📫 How to reach me: telegram @beenchilling
-- twitter @Sheeeeeesh99
+- Bad with Python (top 1%)
+- 📫 How to reach me: telegram @spacec4det
+- twitter @skillissuerip
 - email- byamin174@gmail.com
 
