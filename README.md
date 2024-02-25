@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me::
 🔭 I’m currently working on AI and ML<br>👯 I’m looking to collaborate on Web3 and Backend Development<br>🤝 I’m looking for help with anything related to AI and LLMs<br>🌱 I’m currently learning LLMs and Computer Vision<br>💬 Ask me about Deep Learning
 
 
