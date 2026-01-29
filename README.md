@@ -1,72 +1,35 @@
-# 🤖 Biniyam Ajaw | Machine Learning & Software Engineer
-**Bridging the gap between sophisticated ML models and scalable production systems.**
+# 🤖 Biniyam | AI & Backend Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biniyamodol)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/biniyam69)
-[![Portfolio](https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-blue?logo=googlemaps&logoColor=white)](https://google.com/maps)
+[cite_start]I build production-grade AI systems that move past the "wrapper" stage[cite: 5, 6]. [cite_start]I’m a Software Engineer and Machine Learning specialist focused on the intersection of LLMs, high-performance backends, and MLOps[cite: 2, 5]. [cite_start]If it involves shipping RAG pipelines, autonomous agents, or scalable FastAPI infrastructure, I’m probably into it[cite: 5, 13, 44].
 
----
+### 🛠️ What I’m good at
 
-### 🚀 Professional Summary
-I am a **Machine Learning Engineer** and **Software Engineer** with a deep foundation in **MLOps, CI/CD**, and backend development. My expertise spans from designing state-of-the-art models (LLMs, Computer Vision) to deploying them at scale using NVIDIA DGX Supercomputers and cloud infrastructure. 
+* [cite_start]**LLMs & RAG:** Architecting retrieval pipelines with LangChain and LlamaIndex, optimizing vector search (Pinecone, Chroma, Qdrant), and fine-tuning open-source models like Mistral and Llama 3 on high-compute clusters[cite: 20, 21, 26, 32, 44].
+* [cite_start]**Backend & Infra:** Designing concurrent backends with Python (FastAPI/asyncio), managing state with Redis, and deploying via Docker/Kubernetes on AWS or GCP[cite: 13, 32, 44].
+* [cite_start]**Voice, Agents & Automation:** Building autonomous agents (LangGraph/Autogen) and AI voice systems that handle multi-step workflows and telephony integration[cite: 41, 44].
 
-* 🌍 **Global Impact:** Experience working with teams in the Netherlands, Canada, Israel, and Ethiopia.
-* 📈 **Proven Results:** Increased user engagement by **47%** at Nucleus by optimizing recommendation engines.
-* 🛠️ **Full-Stack AI:** Expert in building RAG pipelines, fine-tuning open-source models (Mistral, LLAMA), and architecting robust backends.
+### 🏗️ Stuff I like to build
 
----
+[cite_start]I prefer shipping real systems over writing research papers[cite: 7]. Some recent things I’ve built:
 
-### 🛠️ Technical Arsenal
+* [cite_start]**RAG over specialized domains:** A medical quiz generator that transforms complex textbooks into interactive learning tools[cite: 24].
+* [cite_start]**Intent-driven RecSys:** Recommendation engines for media that use user intent and emotion signals rather than just simple metadata[cite: 25].
+* [cite_start]**Production AI Pipelines:** Automated story and image generation pipelines for education platforms, focusing on character consistency and multi-lingual validation[cite: 16, 17, 18].
+* [cite_start]**Conversational Voice Agents:** AI telephony agents for sales and hospitality that handle FAQs and bookings naturally[cite: 34, 37, 41].
+* [cite_start]**Localized LLM Fine-tuning:** Fine-tuning models for specific languages (like Amharic) to handle localized ad generation and sentiment analysis[cite: 46, 55].
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI / Machine Learning** | PyTorch, TensorFlow, Sklearn, Hugging Face, LangChain, RAGAS, YOLOv8, GroundingDINO |
-| **LLM & NLP** | Fine-tuning (Mistral, LLAMA, DeepSeek), Amharic NLP, Sentiment Analysis, CogVLM, QwenVL |
-| **Backend & Databases** | FastAPI, Node.js, Go, Python, PostgreSQL, Neo4j (Knowledge Graphs), Redis, Pinecone, Chroma |
-| **MLOps & DevOps** | Docker, Kubernetes (EKS), CI/CD, NVIDIA DGX, CUDA, Apache Airflow, Kafka, Terraform |
-| **Cloud Platforms** | AWS (S3, EC2, Lambda), Google Cloud (Vertex AI, BigQuery), Azure |
+### 🤝 If you want to work with me
 
----
+* [cite_start]You need a FastAPI service that wraps your model and actually scales[cite: 32, 44].
+* [cite_start]You want to move your RAG or agent prototype into a production-ready pipeline[cite: 6, 20].
+* [cite_start]You need to optimize vector search speed or implement complex knowledge graphs (Neo4j)[cite: 26, 27, 30].
+* [cite_start]You want to automate a messy, multi-tool workflow using LLM agents[cite: 44].
 
-### 🏆 Key Experience Highlights
-
-* **BrainBite (Netherlands)**: Building AI pipelines for education; fine-tuning LLMs on **NVIDIA DGX Supercomputers**.
-* **Nucleus (Canada)**: Developed a sophisticated movie/music recommendation engine and high-speed medical quiz generators.
-* **Startup Agile AI (Ethiopia)**: Built an AI voice-calling sales agent and a poker analysis engine using Vision Language Models.
-* **Backos Technologies**: Deployed the first production-grade Amharic sentiment analysis monitoring system for Ethiopian media.
+**Let's talk:** [linkedin.com/in/biniyamodol](https://linkedin.com/in/biniyamodol)
 
 ---
 
-### 📂 Featured Projects
-* **Amharic LLM**: Fine-tuned Mistral and Llama 2 for localized Ad generation.
-* **AI Contract Lawyer**: A RAG-based system to help users draft and understand complex legal documents.
-* **Automated Storyboarding**: Generating visual narratives for advertisements using Stable Diffusion and ControlNets.
-* **Redash Chat Plugin**: Enabling data visualization through natural language queries.
-
----
-
-### 🎓 Education & Certifications
-* **B.Sc. in Software Engineering** | Adama Science and Technology University
-* **Deep Learning Specialization** | DeepLearning.AI
-* **Machine Learning Specialization** | Stanford University
-* **Linux Kernel Development** | The Linux Foundation
-
----
-
-### 💬 Get In Touch
-* **Ask me about:** Deep Learning, RAG optimization, and MLOps.
-* **Collaboration:** I'm interested in Web3, Backend Development, and cutting-edge Computer Vision projects.
-* **Email:** [odolbiniyam@gmail.com](mailto:odolbiniyam@gmail.com)
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biniyam69&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="biniyam69" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biniyam69&theme=vision-friendly-dark" alt="biniyam69" />
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+### 💻 Tech Stack
+* [cite_start]**Core:** Python (FastAPI, asyncio), Node.js, SQL[cite: 5, 13, 32].
+* [cite_start]**AI/ML:** PyTorch, LangChain, LlamaIndex, Pinecone, Chroma, Hugging Face[cite: 13, 32, 44].
+* [cite_start]**Infra:** AWS (EKS, Lambda), GCP (Vertex AI), Docker, Kubernetes, Redis[cite: 32, 38, 44].
