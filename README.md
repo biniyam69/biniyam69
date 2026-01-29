@@ -1,33 +1,49 @@
 # 🤖 Biniyam | AI & Backend Engineer
 
-[cite_start]I build production-grade AI systems that move past the "wrapper" stage[cite: 5, 7]. [cite_start]I’m an AI and Software Engineer focused on the intersection of LLMs, high-performance backends, and MLOps[cite: 2, 5]. [cite_start]If it involves shipping RAG pipelines, autonomous agents, or scalable FastAPI infrastructure, I’m probably into it[cite: 5, 13, 44].
+I build production-grade AI systems that move past the "wrapper" stage. I'm an AI and Software Engineer focused on the intersection of LLMs, high-performance backends, and MLOps. If it involves shipping RAG pipelines, autonomous agents, or scalable FastAPI infrastructure, I'm probably into it.
 
-### 🛠️ What I’m good at
+---
 
-* [cite_start]**LLMs & RAG:** Architecting retrieval pipelines with LangChain and LlamaIndex, optimizing vector search (Pinecone, Chroma, Qdrant), and fine-tuning open-source models like Mistral and Llama 3 on high-compute clusters[cite: 20, 21, 26, 32, 44].
-* [cite_start]**Backend & Infra:** Designing concurrent backends with Python (FastAPI/asyncio), managing state with Redis, and deploying via Docker/Kubernetes on AWS or GCP[cite: 13, 32, 44].
-* [cite_start]**Voice, Agents & Automation:** Building autonomous agents (LangGraph/Autogen) and AI voice systems that handle multi-step workflows and telephony integration[cite: 41, 44].
+### 🛠️ What I'm Good At
 
-### 🏗️ Stuff I like to build
+* **LLMs & RAG:** Architecting retrieval pipelines with LangChain and LlamaIndex, optimizing vector search (Pinecone, Chroma, Qdrant), and fine-tuning open-source models like Mistral and Llama 3 on high-compute clusters.
+* **Backend & Infra:** Designing concurrent backends with Python (FastAPI/asyncio), managing state with Redis, and deploying via Docker/Kubernetes on AWS or GCP.
+* **Voice, Agents & Automation:** Building autonomous agents (LangGraph/Autogen) and AI voice systems that handle multi-step workflows and telephony integration.
 
-[cite_start]I prefer shipping real systems over writing research papers[cite: 7]. Some recent things I’ve built:
+---
 
-* [cite_start]**RAG over specialized domains:** A medical quiz generator that transforms complex textbooks into interactive learning tools[cite: 24].
-* [cite_start]**Intent-driven RecSys:** Recommendation engines for media that use user intent and emotion signals rather than just simple metadata[cite: 25].
-* [cite_start]**Production AI Pipelines:** Automated story and image generation pipelines for education platforms, focusing on character consistency and multi-lingual validation[cite: 16, 17, 18].
-* [cite_start]**Conversational Voice Agents:** AI telephony agents for sales and hospitality that handle FAQs and bookings naturally[cite: 34, 37, 41].
-* [cite_start]**Localized LLM Fine-tuning:** Fine-tuning models for specific languages (like Amharic) to handle localized ad generation and sentiment analysis[cite: 46, 55].
+### 🏗️ Stuff I Like to Build
 
-### 🤝 If you want to work with me
+I prefer shipping real systems over writing research papers. Some recent things I've built:
 
-* [cite_start]You need a FastAPI service that wraps your model and actually scales[cite: 32, 44].
-* [cite_start]You want to move your RAG or agent prototype into a production-ready pipeline[cite: 6, 20].
-* [cite_start]You need to optimize vector search speed or implement complex knowledge graphs (Neo4j)[cite: 26, 27, 30].
-* [cite_start]You want to automate a messy, multi-tool workflow using LLM agents[cite: 44].
+* **RAG over Specialized Domains:** A medical quiz generator that transforms complex textbooks into interactive learning tools.
+* **Intent-driven RecSys:** Recommendation engines for media that use user intent and emotion signals rather than just simple metadata.
+* **Production AI Pipelines:** Automated story and image generation pipelines for education platforms, focusing on character consistency and multi-lingual validation.
+* **Conversational Voice Agents:** AI telephony agents for sales and hospitality that handle FAQs and bookings naturally.
+* **Localized LLM Fine-tuning:** Fine-tuning models for specific languages (like Amharic) to handle localized ad generation and sentiment analysis.
 
-[cite_start]**Let's talk:** [linkedin.com/in/biniyamodol](https://linkedin.com/in/biniyamodol) [cite: 4]
+---
+
+### 🤝 Let's Work Together
+
+* You need a FastAPI service that wraps your model and actually scales.
+* You want to move your RAG or agent prototype into a production-ready pipeline.
+* You need to optimize vector search speed or implement complex knowledge graphs (Neo4j).
+* You want to automate a messy, multi-tool workflow using LLM agents.
+
+📬 **Let's talk:** [linkedin.com/in/biniyamodol](https://linkedin.com/in/biniyamodol)
 
 ---
 
 ### 💻 Tech Stack
-[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) [cite: 13, 22, 32, 44]
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
